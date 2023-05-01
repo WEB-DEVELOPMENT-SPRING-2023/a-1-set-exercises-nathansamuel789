@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: greenyellow;
+    background-color: black;
+}
+
+p{
+ color: black;
+}
+
+body{
+    background-color: greenyellow;
+}
+
+h3{
+    color: grey;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: auto;
+    background-color: gray;
+    
+}
+
+nav li a{
+    padding: 20px;
+    color: aliceblue;
+}
