@@ -1,0 +1,43 @@
+h3 {
+    color:black;
+}
+
+h1{
+    color: lightgreen;
+    background-color: black;
+    text-align: center;
+}
+
+
+body{
+ background-color: lightgreen;
+}
+p {
+    color: black;
+
+}
+
+li{
+    color: black;
+
+}
+
+hr{
+    color: black;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000000;
+    padding: 10px;
+}
+  
+
+  
+nav li a {
+    color: #18d107;
+    text-decoration: none;
+    padding: 10px;
+}
+  

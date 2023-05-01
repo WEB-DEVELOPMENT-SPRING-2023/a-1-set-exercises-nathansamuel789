@@ -1,35 +1,29 @@
-# Further Reading
+# Chapter 2 Exercises
 
-## HTML Essential Training (Lynda)
+Each chapter includes one mandatory and one bonus exercise. The mandatory exercise is indicated with a :ballot_box_with_check: and must be completed as part of the Set Exercises assessment. The bonus exercise is optional but completing it opens up the possibility of achieving a grade in the higher mark boundaries.
 
-### Chapter 3: Understanding the Power of HTML
+For each exercise you should create a new folder with the name of the exercise and save it to this exercises folder in your local repository. Once you have completed your solution you should make sure you commit and push your work to GitHub. You can commit and push as many changes to your solutions as you wish; only those pushed before the deadlines will be marked.
 
-* Formatting HTML (4m 30s)
+## Assessment Exercises 
 
-### Chapter 4: Linking and Navigation
 
-* Links (4m 49s)
-* URL paths (4m 45s)
-* Navigation (3m 18s)
+### One-page website :ballot_box_with_check:
 
-## CSS Essential Training (Lynda)
+Pick a television series, film or game and design a really simple one-page website (just text, no images). Your website should include:
 
-### Chapter 1: Getting Started
+* An overview of the plot, key information, cast and/or creative team, characters and any reviews you can find. 
+* A nav bar at the top which allows the user to quickly navigate to sections further down the page (anchor Ids).
+* A link to the actual website of the film/game etc. which opens in a new tab when clicked. 
+* Use of an external CSS file to style elements creatively (avoid inline styling and use classes instead).
+* At least two classes. 
+* One link styled as a button.
 
-* Project: Relative Paths (4m 35s)
-* Absolute paths (2m 25s)
+<hr>
 
-### Chapter 2: Core Concepts
+### Multi-page website (Bonus - Optional)
 
-* Class and ID selectors (3m 5s)
-* Class and ID selector exercise (3m 28s)
-* Descendant selectors (3m 48s)
-* Grouping selectors (1m 38s)
+Using the one-page website you created, clone it into a new directory and split the information down into a simple multi-page website.
 
-## MDN Web Docs
-
-* [Dealing with files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
-* [Creating hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
-* [Styling links](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links)
-* [Cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
-* [CSS selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
+* An individual page for: plot, key information, cast and/or creative team, characters and any reviews you can find. 
+* Put your new pages in a subdirectory called "pages".
+* Ensure that each page has a navigation bar.
